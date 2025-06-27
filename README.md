@@ -8,12 +8,12 @@ Why Amazon-Product-Review-Sentiment-Analysis?
 
 This project helps developers quickly extract sentiment insights from Amazon reviews. The core features include:
 
-Data Preprocessing & Feature Extraction: Streamlines cleaning and transforming raw review data for analysis.
+1) Data Preprocessing & Feature Extraction: Streamlines cleaning and transforming raw review data for analysis.
 
-Sentiment Classification: Implements robust models to categorize reviews as positive, negative, or neutral.
+2) Sentiment Classification: Implements robust models to categorize reviews as positive, negative, or neutral.
 
-Scalability: Designed to handle large datasets efficiently, supporting enterprise-level analysis.
+3) Scalability: Designed to handle large datasets efficiently, supporting enterprise-level analysis.
 
-Trend & Feedback Insights: Facilitates downstream analysis like trend detection and product feedback evaluation.
+4) Trend & Feedback Insights: Facilitates downstream analysis like trend detection and product feedback evaluation.
 
-Modular & Extensible: Easily customizable for various sentiment analysis workflows.
+5) Modular & Extensible: Easily customizable for various sentiment analysis workflows.
